@@ -1,6 +1,12 @@
 # CSS Test Calculator
 
-The CSS Test Calculator is a Python GUI application created using `tkinter` that allows you to calculate the Critical Swim Speed (CSS) based on the input of 400m and 200m swim times. It also provides options to export the data in various formats (CSV, XLSX, and PDF) for your records.
+Critical Swim Speed (CSS) is an important metric to understand in the world of swimming. It measures the fastest speed a swimmer can sustain for a given distance without getting tired. Coaches mainly use CSS to set training zones and predict race times. 
+
+Critical Swim Speed Pace is determined by swimming a 200m and a 400m time trial and look at the difference between the times.
+
+  CSS Pace [in secs/100m] = (T400 - T200)/2
+
+The CSS Test Calculator is a Python GUI application created using `tkinter` that allows you to calculate the Critical Swim Speed (CSS) based on the input of 400m and 200m swim times. It also provides options to export the data in XLSX format for your records.
 
 ## Features
 

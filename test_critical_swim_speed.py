@@ -1,6 +1,6 @@
 import unittest
 import tkinter as tk
-from critical_swim_speed import CSSCalculator  # Replace 'your_module_name' with the actual module name
+from critical_swim_speed import CSSCalculator
 
 
 class TestCSSCalculator(unittest.TestCase):

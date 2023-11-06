@@ -55,7 +55,7 @@ If you would like to contribute to this project or have suggestions for improvem
 
 1. Fork the project.
 2. Create a new branch for your feature or bugfix: `git checkout -b feature/my-feature` or `git checkout -b bugfix/issue-description`.
-3. Make your changes and commit them: `git commit -m "Your message here"`.
+3. Make your changes and commit them:  `git commit -m "Your message here"`.
 4. Push to the branch: `git push origin feature/my-feature`.
 5. Create a pull request to the original repository.
 

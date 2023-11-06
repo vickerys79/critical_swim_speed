@@ -1,5 +1,3 @@
-
-```markdown
 # CSS Test Calculator
 
 The CSS Test Calculator is a Python GUI application created using `tkinter` that allows you to calculate the Critical Swim Speed (CSS) based on the input of 400m and 200m swim times. It also provides options to export the data in various formats (CSV, XLSX, and PDF) for your records.
